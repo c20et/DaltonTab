@@ -22,7 +22,6 @@ body {
 
 #section1 {
 	background-color: #1E88E5;
-	max-height: 1080px;
 	transition: background-color 0.75s;
 	background-size: 200%, 200%;
 }
@@ -43,7 +42,7 @@ body{
 	min-height: 100vh;
 }
 #section2 {
-	background-color: rgba(60, 77, 99, 0.9);
+	background-color: rgba(60, 77, 99, 0.65);
 	z-index: 1;
 	position: relative;
 }
@@ -54,7 +53,7 @@ body{
 	background-color: rgba(121, 70, 26, 0.65);
 }
 #section42 {
-	background-color: rgba(57, 146, 108, 0.69);
+	background-color: rgba(57, 146, 108, 0.65);
 }
 #section21 {
 	background-color: rgba(0, 188, 212, 0.9);
